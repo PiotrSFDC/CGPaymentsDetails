@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "qs": "^6.12.1"
+  }
+}
